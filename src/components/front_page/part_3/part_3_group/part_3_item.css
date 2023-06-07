@@ -1,0 +1,100 @@
+
+.part_3_wrap .item_group .part_3_item {
+     width: 380px;
+     height: 380px;
+     background-color: #fec45a;
+     text-decoration: none;
+     border-radius: 0 25px 0 25px;
+     margin: 0 20px 0px 20px;
+     padding: 15px;
+     box-shadow: 5px 5px 18px 4px rgba(114, 114, 114, 0.7);
+     position: relative;
+     flex-shrink: 0;
+     transition: 0.5s;
+     cursor: pointer;
+   }
+   
+   .part_3_wrap .group_1 .part_3_item {
+     animation: part_3_item_ani_left linear 12s infinite normal;
+   }
+   
+   .part_3_wrap .group_2 .part_3_item {
+     animation: part_3_item_ani_right linear 12s infinite normal;
+   }
+   
+   .part_3_wrap .item_group:hover .part_3_item {
+     animation-play-state: paused;
+   }
+   
+   .part_3_wrap .item_group .part_3_item:hover {
+     height: 400px;
+     box-shadow: 8px 11px 32px 10px rgba(114, 114, 114, 0.87);
+     border-radius: 25px 0 25px 0;
+     background-color: #ffbd41;
+   }
+   
+   .part_3_wrap .item_group .part_3_item .part_3_item_title {
+     font-size: 36px;
+     font-weight: 500;
+     color: black;
+     margin-bottom: 15px;
+   }
+   
+   /* 第三部分內文 */
+   .part_3_wrap .item_group .part_3_item .part_3_item_content {
+     color: #000;
+     font-weight: 500;
+     font-size: 22px;
+     margin-top: 5%;
+     overflow: hidden;
+     display: -webkit-box;
+     -webkit-line-clamp: 3;
+     -webkit-box-orient: vertical;
+     white-space: normal;
+   }
+   
+   .part_3_wrap .item_group .part_3_item .part_3_date {
+     color: #000;
+     font-weight: 500;
+     font-size: 28px;
+     margin-bottom: 10px;
+   }
+   
+   .part_3_wrap .item_group .part_3_item .part_3_more {
+     position: absolute;
+     bottom: 5%;
+     right: 5%;
+     color: rgb(138, 78, 4);
+     font-size: 22px;
+   }
+   
+   .p3_item_img {
+     width: 130px;
+     height: 130px;
+     position: absolute;
+     right: 25px;
+     top: 50px;
+     border-radius: 25px;
+   }
+   
+   
+@keyframes part_3_item_ani_left {
+     0% {
+       transform: translateX(-0%);
+     }
+   
+     100% {
+       transform: translateX(-100%);
+     }
+   }
+   
+   @keyframes part_3_item_ani_right {
+     0% {
+       transform: translateX(-100%);
+     }
+   
+     100% {
+       transform: translateX(0%);
+     }
+   }
+   

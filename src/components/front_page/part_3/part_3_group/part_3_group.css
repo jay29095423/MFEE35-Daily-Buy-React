@@ -1,0 +1,8 @@
+.part_3_wrap .item_group {
+     width: 100vw;
+     height: 60vh;
+     display: inline-flex;
+     align-items: center;
+     overflow-x: hidden;
+   }
+   

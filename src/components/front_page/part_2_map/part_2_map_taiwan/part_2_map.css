@@ -1,0 +1,27 @@
+#taiwan_map {
+  width: 50vw;
+  height: 100vh;
+  /* background-color: #ffffff; */
+  right: 0;
+  position: relative;
+}
+
+#svg {
+  cursor: grab;
+}
+
+#home_icon {
+  color: #000000;
+  position: absolute;
+  left: 2%;
+  top: 2%;
+  background-color: #ffffff;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 1px solid #000;
+ font-size: 15px;
+}
+
+.map_county {
+  cursor: pointer;
+}
