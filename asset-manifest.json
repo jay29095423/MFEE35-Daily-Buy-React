@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MFEE35-Daily-Buy-React/static/css/main.67b65a9f.css",
-    "main.js": "/MFEE35-Daily-Buy-React/static/js/main.bbde5fd6.js",
-    "static/media/GenSenRounded-M.ttc": "/MFEE35-Daily-Buy-React/static/media/GenSenRounded-M.e59525b4eb7c619bfcdf.ttc",
-    "static/media/shopping_bag.jpg": "/MFEE35-Daily-Buy-React/static/media/shopping_bag.7cc084d767d43f01d29f.jpg",
-    "static/media/mooncake.jpg": "/MFEE35-Daily-Buy-React/static/media/mooncake.97da786664aeaceb37b3.jpg",
-    "static/media/logo.png": "/MFEE35-Daily-Buy-React/static/media/logo.6f053e7d8dc1d72c6342.png",
-    "index.html": "/MFEE35-Daily-Buy-React/index.html",
-    "main.67b65a9f.css.map": "/MFEE35-Daily-Buy-React/static/css/main.67b65a9f.css.map",
-    "main.bbde5fd6.js.map": "/MFEE35-Daily-Buy-React/static/js/main.bbde5fd6.js.map"
+    "main.css": "/mfee35-daily-buy-react/static/css/main.ae04e90d.css",
+    "main.js": "/mfee35-daily-buy-react/static/js/main.e1e528b7.js",
+    "static/media/GenSenRounded-M.ttc": "/mfee35-daily-buy-react/static/media/GenSenRounded-M.e59525b4eb7c619bfcdf.ttc",
+    "static/media/shopping_bag.jpg": "/mfee35-daily-buy-react/static/media/shopping_bag.7cc084d767d43f01d29f.jpg",
+    "static/media/mooncake.jpg": "/mfee35-daily-buy-react/static/media/mooncake.97da786664aeaceb37b3.jpg",
+    "static/media/logo.png": "/mfee35-daily-buy-react/static/media/logo.6f053e7d8dc1d72c6342.png",
+    "index.html": "/mfee35-daily-buy-react/index.html",
+    "main.ae04e90d.css.map": "/mfee35-daily-buy-react/static/css/main.ae04e90d.css.map",
+    "main.e1e528b7.js.map": "/mfee35-daily-buy-react/static/js/main.e1e528b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.67b65a9f.css",
-    "static/js/main.bbde5fd6.js"
+    "static/css/main.ae04e90d.css",
+    "static/js/main.e1e528b7.js"
   ]
 }
