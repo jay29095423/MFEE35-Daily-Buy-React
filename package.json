@@ -1,7 +1,7 @@
 {
   "name": "project-dailybuy",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@react-oauth/google": "^0.11.0",
     "@testing-library/jest-dom": "^5.16.5",
@@ -20,11 +20,14 @@
     "sweetalert2": "^11.7.5",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://jay29095423.github.io/MFEE35-Daily-Buy-React",
   "scripts": {
     "start": "set PORT=8000 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -48,5 +51,8 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
