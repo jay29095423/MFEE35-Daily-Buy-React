@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MFEE35-Daily-Buy-React/static/css/main.67b65a9f.css",
-    "main.js": "/MFEE35-Daily-Buy-React/static/js/main.bbde5fd6.js",
+    "main.js": "/MFEE35-Daily-Buy-React/static/js/main.ef2ff00c.js",
     "static/media/GenSenRounded-M.ttc": "/MFEE35-Daily-Buy-React/static/media/GenSenRounded-M.e59525b4eb7c619bfcdf.ttc",
     "static/media/shopping_bag.jpg": "/MFEE35-Daily-Buy-React/static/media/shopping_bag.7cc084d767d43f01d29f.jpg",
     "static/media/mooncake.jpg": "/MFEE35-Daily-Buy-React/static/media/mooncake.97da786664aeaceb37b3.jpg",
     "static/media/logo.png": "/MFEE35-Daily-Buy-React/static/media/logo.6f053e7d8dc1d72c6342.png",
     "index.html": "/MFEE35-Daily-Buy-React/index.html",
     "main.67b65a9f.css.map": "/MFEE35-Daily-Buy-React/static/css/main.67b65a9f.css.map",
-    "main.bbde5fd6.js.map": "/MFEE35-Daily-Buy-React/static/js/main.bbde5fd6.js.map"
+    "main.ef2ff00c.js.map": "/MFEE35-Daily-Buy-React/static/js/main.ef2ff00c.js.map"
   },
   "entrypoints": [
     "static/css/main.67b65a9f.css",
-    "static/js/main.bbde5fd6.js"
+    "static/js/main.ef2ff00c.js"
   ]
 }
